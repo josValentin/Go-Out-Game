@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0cd1b2020bfca84d9de6f7f043d52f9, type: 3}
+  m_Name: SoundData
+  m_EditorClassIdentifier: 
+  list:
+  - id: box_damaged
+    clip: {fileID: 8300000, guid: 8aed858c9ca501743b015c229be9f41f, type: 3}
+  - id: mine
+    clip: {fileID: 8300000, guid: 510468e72d5521844864fc888938ee65, type: 3}
+  - id: greet
+    clip: {fileID: 8300000, guid: af89ce9fdafcc7a4e88718b6d8218555, type: 3}
+  - id: damage
+    clip: {fileID: 8300000, guid: f109d95975a1ef54a846c4ea0cf81d1b, type: 3}
+  - id: recover
+    clip: {fileID: 8300000, guid: 0c1f69f1a88713c4c90fde450e45cf53, type: 3}
+  - id: door_unlocked
+    clip: {fileID: 8300000, guid: c7a30abc18ddbb345bd8ab80ff947982, type: 3}
